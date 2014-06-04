@@ -6,6 +6,6 @@ Plugins are a great way to easily extend the existing functionality of the Spide
 Installation
 =======
 1. Clone this repository
-2. If it does not exist, create a new directory named "Plugins" inside your SpiderScope installation.
-3. In your "Plugins" folder from step 2, create a new directory and move all .py files inside.
+2. If it does not exist, create a new directory named "plugins" inside your SpiderScope installation.
+3. In your "plugins" folder from step 2, create a new directory "tools" and move all .py files inside.
 4. Launch SpiderScope. The plugins should be available in the toolbar.
