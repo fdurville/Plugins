@@ -7,5 +7,11 @@ Installation
 =======
 1. Clone this repository
 2. If it does not exist, create a new directory named "Plugins" inside your SpiderScope installation.
-3. In your "Plugins" folder from step 2, create a new directory and move all .py files inside.
+3. In your "Plugins" folder from step 2, create a new directory (such as "Tools") and move all .py files inside.
 4. Launch SpiderScope. The plugins should be available in the toolbar.
+
+SpiderScope-Gen2
+=========
+If you are using SpiderScope-Gen2:
+Create a "Plugins" directory in the SAME DIRECTORY as the "SpiderScope" directory.
+Move all .py files directly in the "Plugins" directory.
